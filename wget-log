@@ -1,0 +1,16 @@
+--2020-08-18 20:00:45--  http://bit.ly/2YZTyeN
+Resolving bit.ly (bit.ly)... 67.199.248.10, 67.199.248.11
+Connecting to bit.ly (bit.ly)|67.199.248.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://raw.githubusercontent.com/lighthouse-labs/w5-sql-seeds/master/bootcampx_seeds/assistance_requests_seeds.sql [following]
+--2020-08-18 20:00:46--  https://raw.githubusercontent.com/lighthouse-labs/w5-sql-seeds/master/bootcampx_seeds/assistance_requests_seeds.sql
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7374604 (7.0M) [text/plain]
+Saving to: ‘seeds/assistance_requests_seeds.sql’
+
+         seeds/assi   0%[                    ]   2.68K  12.0 B/s    eta 7d 2h          seeds/assis   0%[                    ]   4.02K  9.00 B/s    eta 9d 11h        seeds/assist   0%[                    ]  34.81K  77.9 B/s    eta 9d 11h       seeds/assista   1%[                    ]  85.69K   192 B/s    eta 9d 11h      seeds/assistan   2%[                    ] 172.71K   386 B/s    eta 9d 11h     seeds/assistanc   3%[                    ] 231.62K   518 B/s    eta 9d 11h    seeds/assistance   4%[                    ] 318.65K   712 B/s    eta 2h 44m   seeds/assistance_   5%[>                   ] 408.32K   912 B/s    eta 2h 44m  seeds/assistance_r   6%[>                   ] 488.32K  1.06KB/s    eta 2h 44m seeds/assistance_re   7%[>                   ] 558.44K  1.22KB/s    eta 2h 44m eeds/assistance_req  10%[=>                  ] 756.57K  1.65KB/s    eta 65m 12seds/assistance_requ  12%[=>                  ] 916.57K  1.99KB/s    eta 65m 12sds/assistance_reque  13%[=>                  ] 986.69K  2.15KB/s    eta 65m 12ss/assistance_reques  15%[==>                 ]   1.07M  2.39KB/s    eta 65m 12s/assistance_request  16%[==>                 ]   1.19M  2.64KB/s    eta 65m 12sassistance_requests  18%[==>                 ]   1.31M  2.92KB/s    eta 33m 25sssistance_requests_  20%[===>                ]   1.47M  6.47KB/s    eta 33m 25ssistance_requests_s  27%[====>               ]   1.94M   530KB/s    eta 33m 25sistance_requests_se  32%[=====>              ]   2.30M   627KB/s    eta 33m 25sstance_requests_see  37%[======>             ]   2.67M   712KB/s    eta 33m 25stance_requests_seed  49%[========>           ]   3.47M   897KB/s    eta 7m 54s ance_requests_seeds  61%[===========>        ]   4.32M  1.08MB/s    eta 7m 54s nce_requests_seeds.  70%[=============>      ]   4.99M  1.23MB/s    eta 7m 54s ce_requests_seeds.s  83%[===============>    ]   5.89M  1.49MB/s    eta 7m 54s e_requests_seeds.sq  95%[==================> ]   6.71M  1.69MB/s    eta 7m 54s seeds/assistance_re 100%[===================>]   7.03M  1.81MB/s    in 7m 42s  
+
+2020-08-18 20:08:32 (15.6 KB/s) - ‘seeds/assistance_requests_seeds.sql’ saved [7374604/7374604]
+
